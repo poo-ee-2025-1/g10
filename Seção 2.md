@@ -20,7 +20,7 @@
 - [102.1] - Radio Alpha
 - [104.3] - Radio Terra
 
-- Permitir o usuário selecionar se ele está localizado em Goiânia ou não, pois se estiver terá acesso, sem interferências, à qualquer estação.
+- Permitir o usuário selecionar se ele está localizado em Goiânia ou não, pois caso estiver, terá acesso, sem interferências, à qualquer estação.
 
 - Se o usuário não estiver em Goiânia, permitir que ele informe sua localidade aproximada e distância à cidade de Goiânia.
 

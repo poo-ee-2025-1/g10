@@ -24,7 +24,7 @@
 
 - Se o usuário não estiver em Goiânia, permitir que ele informe sua localidade aproximada e distância à cidade de Goiânia.
 
-- Exibir uma mensagem, indicando a expectativa de qualidade da recepção de áudio em sua localização informada.
+- Exibir uma mensagem, indicando a expectativa de qualidade da recepção de áudio em sua localização informada,através dos dados de distância e altimetria da região localizada, podendo inferir sobre a recepção da qualidade de sinal FM recebida.
 
 
 

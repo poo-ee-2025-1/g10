@@ -6,5 +6,5 @@
 
 - Além disso, fiquei responsável pelo início do projeto, no qual, a partir da teoria da rádio FM iniciei as inferências e pesquisas.
 
-- Pesquisas sobre as potências dos transmissores das rádios localizadas em Goiânia, e na relação entre essa potência e a distância máxima de cobertura dessas rádios, além de obstáculos, como a altimetria.
+- Pesquisas sobre as potências dos transmissores das rádios localizadas em Goiânia, e na relação entre essa potência e a distância máxima de cobertura dessas rádios, além de levar em conta obstáculos, como a altimetria.
 

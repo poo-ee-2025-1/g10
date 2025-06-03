@@ -7,7 +7,7 @@
 
 ## Objetivos Específicos
 
-- Permitir o usuário selecionar a estação de rádio FM que queira ouvir , através de uma lista pré-definida de 12 estações FM com transmissores localizados em Goiânia :
+- Permitir o usuário selecionar a estação de rádio FM que queira ouvir , através de uma lista pré-definida (inicialmente) de 12 estações FM com transmissores localizados em Goiânia :
 - [89.1] - Radio Mania
 - [90.1] - Radio RBC
 - [92.7] - Radio Executiva
@@ -22,10 +22,11 @@
 
 - Permitir o usuário selecionar se ele está localizado em Goiânia ou não, pois caso estiver, terá acesso, sem interferências, à qualquer estação.
 
-- Se o usuário não estiver em Goiânia, permitir que ele informe sua localidade aproximada e distância à cidade de Goiânia.
+- Se o usuário não estiver em Goiânia, permitir que ele informe sua localidade aproximada (distância aproximada em km).
 
-- Exibir uma mensagem, indicando a expectativa de qualidade da recepção de áudio em sua localização informada,através dos dados de distância e altimetria da região localizada, podendo inferir sobre a recepção da qualidade de sinal FM recebida.
+- Exibir uma mensagem, indicando a expectativa de qualidade da recepção de áudio em sua localização informada.
 
+- Essa expectativa será baseada através da região onde o usuário está e da capacidade da rádio definida (a potência de seu transmissor), garantindo cálculos e diagnósticos mais precisos.
 
 
  

@@ -1,3 +1,7 @@
+(TODAS AS IMAGENS E TEXTOS DOS DIAGRAMAS ESTÃO CONTIDAS NA OPÇÃO "ISSUES" DO LADO ESQUERDO NA TELA, AO LADO DE CODE E
+EMBAIXO DE POO--EE-2025-1).Para caso queira ser visualizada diretamente no próprio github
+
+
 Diagrama de Sequência:
 Mostra o passo a passo quando o usuário clica para analisar o sinal. Primeiro, os dados são lidos dos campos da tela. 
 Depois, os cálculos são feitos pela CalculadoraSinal (como o contorno e a população). Por fim, o resultado é exibido 
@@ -16,3 +20,11 @@ apresentadas. Ele deixa claro que todas as ações partem do usuário e que há 
 depois se geram propostas e por fim se escolhe uma.
 
 [Diagrama de caso de uso.pdf](https://github.com/user-attachments/files/21026049/Diagrama.de.caso.de.uso.pdf)
+
+Diagrama de Classes:
+Apresenta as principais classes do sistema e suas responsabilidades. A classe HelloController cuida da interface e das ações
+do usuário. A classe Radio representa uma estação com suas características (frequência, potência, contornos). A CalculadoraSinal
+é uma classe utilitária que contém todos os cálculos técnicos do sistema, como alcance e população atingida. Esse diagrama mostra
+como o sistema está organizado e separado em partes com funções bem definidas.
+
+[Diagrama de classe.pdf](https://github.com/user-attachments/files/21026064/Diagrama.de.classe.pdf)

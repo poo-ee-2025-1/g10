@@ -85,7 +85,7 @@ A lógica do app está dividida em partes específicas:
 | 📌 Aceitar proposta  | Confirmação da proposta escolhida          |
 
 
-## 📟 Diagramas
+## 5. 📟 Diagramas
 
 - [Image Diagrama de Sequência](https://github.com/user-attachments/assets/b6fb89a8-1fd0-42a7-b4ae-7c43c251b0c1)
 

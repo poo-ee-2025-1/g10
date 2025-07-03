@@ -3,9 +3,9 @@
 
 ## 📌 1. Definição de  RadioXPrime
 
-**RadioXPrime** é um aplicativo de desktop feito em **JavaFX**,no qual, há a  **simulação e análise de cobertura do sinal de rádios FM**.
+**RadioXPrime** é um aplicativo de desktop feito em **JavaFX** ,no qual, há a  **simulação e análise de cobertura do sinal de rádios FM**.
 
-👨‍🔧 A RadioXPrime tem por função **ajudar emissoras de rádiosFM a visualizar até onde sua rádio alcança e qual a população atingida, sugerindo melhorias na rádio**, com base em **cálculos técnicos de engenharia de rádio** e **estimativas populacionais**.
+👨‍🔧 A RadioXPrime tem por função **auxiliar emissoras de rádiosFM a visualizar o alcance de sua rádio e qual a população atingida sugerindo melhorias na rádio**, com base em **cálculos técnicos de engenharia de rádio** e **estimativas populacionais**.
 
 🖥️ A interface é simples e intuitiva: você insere os dados da rádio e o sistema analisa tudo, oferecendo sugestões de investimento para melhorar o alcance.
 

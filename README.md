@@ -4,11 +4,11 @@
 
 ## 1.🧾 Introdução
 
-Voltado especialmente para emissoras de rádioFM, o aplicativo RADIOXPRIME , auxilia na **visualização técnica do alcance do sinal**, apoiando **decisões estratégicas e investimentos futuros** para essas rádios.
+- Voltado especialmente para emissoras de rádioFM, o aplicativo RADIOXPRIME , auxilia na **visualização técnica do alcance do sinal**, apoiando **decisões estratégicas e investimentos futuros** para essas rádios.
 
 ## 2.💡 Motivação
 
-Em busca de um tema relacionado à engenharia elétrica, surgiu o interesse pela área de telecomunicações, um campo essencial para garantir comunicação eficiente, acessível e de longo alcance. Dentro desse meio, a rádio FM foi escolhida por ser de fácil acesso e presente no cotidiano das pessoas. Desse modo, o projeto RadioXPrime representa um estudo acadêmico que se utiliza dos conhecimentos adquiridos de engenharia e cálculos , juntamente com a programação orientada a objetos.
+- Em busca de um tema relacionado à engenharia elétrica, surgiu o interesse pela área de telecomunicações, um campo essencial para garantir comunicação eficiente, acessível e de longo alcance. Dentro desse meio, a rádio FM foi escolhida por ser de fácil acesso e presente no cotidiano das pessoas. Desse modo, o projeto RadioXPrime representa um estudo acadêmico que se utiliza dos conhecimentos adquiridos de engenharia e cálculos , juntamente com a programação orientada a objetos.
 
 
 ## 3.❗Descrição do Problema
@@ -19,11 +19,11 @@ Em busca de um tema relacionado à engenharia elétrica, surgiu o interesse pela
 
 ## 📌 4. Definição e objetivo da RadioXPrime
 
-**RadioXPrime** é um aplicativo de desktop feito em **JavaFX** ,no qual, há a  **simulação e análise de cobertura do sinal de rádios FM**.
+- **RadioXPrime** é um aplicativo de desktop feito em **JavaFX** ,no qual, há a  **simulação e análise de cobertura do sinal de rádios FM**.
 
-👨‍🔧 A RadioXPrime tem por função **auxiliar emissoras de rádiosFM a visualizar o alcance de sua rádio e qual a população atingida sugerindo melhorias na rádio**, com base em **cálculos técnicos de engenharia de rádio** e **estimativas populacionais**.
+- 👨‍🔧 A RadioXPrime tem por função **auxiliar emissoras de rádiosFM a visualizar o alcance de sua rádio e qual a população atingida sugerindo melhorias na rádio**, com base em **cálculos técnicos de engenharia de rádio** e **estimativas populacionais**.
 
-🖥️ A interface é simples e intuitiva: você insere os dados da rádio e o sistema analisa tudo, oferecendo sugestões de investimento para melhorar o alcance.
+- 🖥️ A interface é simples e intuitiva: você insere os dados da rádio e o sistema analisa tudo, oferecendo sugestões de investimento para melhorar o alcance.
 
 ## 🎓 5. Conceitos Envolvidos
 

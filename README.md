@@ -6,14 +6,18 @@
 
 Voltado especialmente para emissoras de rádioFM, o aplicativo RADIOXPRIME , auxilia na **visualização técnica do alcance do sinal**, apoiando **decisões estratégicas e investimentos futuros** para essas rádios.
 
-
 ## 2.💡 Motivação
+
+Em busca de um tema relacionado à engenharia elétrica, surgiu o interesse pela área de telecomunicações, um campo essencial para garantir comunicação eficiente, acessível e de longo alcance. Dentro desse meio, a rádio FM foi escolhida por ser de fácil acesso e presente no cotidiano das pessoas. Desse modo, o projeto RadioXPrime representa um estudo acadêmico que se utiliza dos conhecimentos adquiridos de engenharia e cálculos , juntamente com a programação orientada a objetos.
+
+
+## 3.❗Descrição do Problema
 
 - O rádio tradicional (AM/FM) vem enfrentando um declínio lento ao longo do tempo em alguns mercados e faixas etárias, especialmente com a ascensão de serviços de streaming e podcasts. Logo, esse projeto foi escolhido com foco em analisar as características dessas rádiosFM, oferecendo melhorias justamente para aumentar o público.
 
 
 
-## 📌 3. Definição de  RadioXPrime
+## 📌 4. Definição e objetivo da RadioXPrime
 
 **RadioXPrime** é um aplicativo de desktop feito em **JavaFX** ,no qual, há a  **simulação e análise de cobertura do sinal de rádios FM**.
 
@@ -21,7 +25,7 @@ Voltado especialmente para emissoras de rádioFM, o aplicativo RADIOXPRIME , aux
 
 🖥️ A interface é simples e intuitiva: você insere os dados da rádio e o sistema analisa tudo, oferecendo sugestões de investimento para melhorar o alcance.
 
-## 🎓 4. Conceitos Envolvidos
+## 🎓 5. Conceitos Envolvidos
 
 - 🎨 **Interface Gráfica (JavaFX):**  
   Uso de **FXML** .
@@ -42,7 +46,7 @@ Voltado especialmente para emissoras de rádioFM, o aplicativo RADIOXPRIME , aux
   Uso de `try-catch` para evitar erros por entradas inválidas.
 
 
-## ⚙️ 5. Como Funciona o aplicativo?
+## ⚙️ 6. Como Funciona o aplicativo?
 
 A lógica do app está dividida em partes específicas:
 
@@ -77,7 +81,7 @@ A lógica do app está dividida em partes específicas:
 
 ---
 
-## ▶️ 6. Como Executar o Projeto no IntelliJ IDEA
+## ▶️ 7. Como Executar o Projeto no IntelliJ IDEA
 
 1. ☕ Instale o **JDK 11 ou superior**;
 2. 📂 Abra o projeto no **IntelliJ IDEA**;
@@ -97,7 +101,7 @@ A lógica do app está dividida em partes específicas:
 | 📌 Aceitar proposta  | Confirmação da proposta escolhida          |
 
 
-## 7. 📟 Diagramas
+## 8. 📟 Diagramas
 
 - [Image Diagrama de Sequência](https://github.com/user-attachments/assets/b6fb89a8-1fd0-42a7-b4ae-7c43c251b0c1)
 
@@ -106,7 +110,7 @@ A lógica do app está dividida em partes específicas:
 - [Image Diagrama de classe](https://github.com/user-attachments/files/21026064/Diagrama.de.classe.pdf)
 
 
-## 8. 👥 Divisão de Tarefas
+## 9. 👥 Divisão de Tarefas
 
 | Integrante           | Responsabilidades                          |
 |----------------------|--------------------------------------------|

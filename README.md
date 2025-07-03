@@ -1,7 +1,19 @@
 # 🎙️ Projeto RadioXPrime  
 ## Análise e Propostas de Cobertura de Rádio FM📡
 
-## 📌 1. Definição de  RadioXPrime
+
+## 1.🧾 Introdução
+
+Voltado especialmente para emissoras de rádioFM, o aplicativo RADIOXPRIME , auxilia na **visualização técnica do alcance do sinal**, apoiando **decisões estratégicas e investimentos futuros** para essas rádios.
+
+
+## 2.💡 Motivação
+
+- O rádio tradicional (AM/FM) vem enfrentando um declínio lento ao longo do tempo em alguns mercados e faixas etárias, especialmente com a ascensão de serviços de streaming e podcasts. Logo, esse projeto foi escolhido com foco em analisar as características dessas rádiosFM, oferecendo melhorias justamente para aumentar o público.
+
+
+
+## 📌 3. Definição de  RadioXPrime
 
 **RadioXPrime** é um aplicativo de desktop feito em **JavaFX** ,no qual, há a  **simulação e análise de cobertura do sinal de rádios FM**.
 
@@ -9,7 +21,7 @@
 
 🖥️ A interface é simples e intuitiva: você insere os dados da rádio e o sistema analisa tudo, oferecendo sugestões de investimento para melhorar o alcance.
 
-## 🎓 2. Conceitos Envolvidos
+## 🎓 4. Conceitos Envolvidos
 
 - 🎨 **Interface Gráfica (JavaFX):**  
   Uso de **FXML** .
@@ -30,7 +42,7 @@
   Uso de `try-catch` para evitar erros por entradas inválidas.
 
 
-## ⚙️ 3. Como Funciona o aplicativo?
+## ⚙️ 5. Como Funciona o aplicativo?
 
 A lógica do app está dividida em partes específicas:
 
@@ -65,7 +77,7 @@ A lógica do app está dividida em partes específicas:
 
 ---
 
-## ▶️ 4. Como Executar o Projeto no IntelliJ IDEA
+## ▶️ 6. Como Executar o Projeto no IntelliJ IDEA
 
 1. ☕ Instale o **JDK 11 ou superior**;
 2. 📂 Abra o projeto no **IntelliJ IDEA**;
@@ -85,12 +97,20 @@ A lógica do app está dividida em partes específicas:
 | 📌 Aceitar proposta  | Confirmação da proposta escolhida          |
 
 
-## 5. 📟 Diagramas
+## 7. 📟 Diagramas
 
 - [Image Diagrama de Sequência](https://github.com/user-attachments/assets/b6fb89a8-1fd0-42a7-b4ae-7c43c251b0c1)
 
 - [Image Diagrama de caso de uso](https://github.com/user-attachments/files/21026049/Diagrama.de.caso.de.uso.pdf)
 
 - [Image Diagrama de classe](https://github.com/user-attachments/files/21026064/Diagrama.de.classe.pdf)
+
+
+## 8. 👥 Divisão de Tarefas
+
+| Integrante           | Responsabilidades                          |
+|----------------------|--------------------------------------------|
+| **André Oliveira**   | 📚 Base teórica e 💻 Desenvolvimento   |
+| **Gustavo de Souza** | 🧩 Criação de diagramas e 💻 Desenvolvimento |
 
 

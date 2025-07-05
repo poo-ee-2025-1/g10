@@ -64,6 +64,6 @@
 
 - A simulação de contorno e estimativas foram eficientes.
 - O app fornece propostas baseada nos dados da rádio, visando melhorias de público e monetárias.
-- O projeto permitiu aprendizado técnico de programação.
+- O projeto me permitiu aprendizado técnico de programação e conhecimento de outras IDES.
 
 
